@@ -8,18 +8,18 @@
 .bg1carousel {
     width: 100%;
     object-fit: cover;
-    object-position: 75% 5% ;
+    object-position: 60% 5% ;
 }
 .bg2carousel {
   width: 100%;
   object-fit: cover;
-  object-position: 70% 5% ;
+  object-position: 40% 5% ;
 }
 
 .bg3carousel {
   width: 100%;
   object-fit: cover;
-  object-position: 70% 7% ;
+  object-position: 58% 7% ;
 }
 
 .textColor{
